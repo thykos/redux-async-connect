@@ -2,7 +2,7 @@
 .eslintrc
 .travis.yml
 __tests__
-scripts
+#scripts
 index.html
 karma.conf.js
 tests.webpack.js
